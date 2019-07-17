@@ -49,7 +49,7 @@
                     <navigationItem key="navigationItem" title="Checklists" id="8dK-nE-eys">
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="R9D-PD-A1y">
                             <connections>
-                                <segue destination="iwV-aL-Yth" kind="show" id="wVn-gm-vdM"/>
+                                <segue destination="iwV-aL-Yth" kind="show" identifier="AddItem" id="wVn-gm-vdM"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
